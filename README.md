@@ -42,7 +42,4 @@
 <br/>
 
 ###
-![Taaj's github stats](https://github-readme-stats.vercel.app/api?username=taajuddin&show_icons=true&theme=radical&bg_color=#ffffff)
-
-
-
+![Sushil Suman's github stats](https://github-readme-stats.vercel.app/api?username=sushil2601&show_icons=true&theme=radical&bg_color=#ffffff)
